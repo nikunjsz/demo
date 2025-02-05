@@ -1,3 +1,3 @@
 # demo
 First repo, check
-Author: Nikunj Sethi
+Author: Aditi Sethi
